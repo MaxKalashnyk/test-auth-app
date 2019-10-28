@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test-auth-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/test-auth-app/static/js/main.377f480b.chunk.js",
+    "main.js.map": "/test-auth-app/static/js/main.377f480b.chunk.js.map",
+    "runtime-main.js": "/test-auth-app/static/js/runtime-main.516e1223.js",
+    "runtime-main.js.map": "/test-auth-app/static/js/runtime-main.516e1223.js.map",
+    "static/js/2.e3ce1568.chunk.js": "/test-auth-app/static/js/2.e3ce1568.chunk.js",
+    "static/js/2.e3ce1568.chunk.js.map": "/test-auth-app/static/js/2.e3ce1568.chunk.js.map",
+    "index.html": "/test-auth-app/index.html",
+    "precache-manifest.7a405745a1c7f9bf2b613976de49845f.js": "/test-auth-app/precache-manifest.7a405745a1c7f9bf2b613976de49845f.js",
+    "service-worker.js": "/test-auth-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/test-auth-app/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.516e1223.js",
+    "static/js/2.e3ce1568.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.377f480b.chunk.js"
+  ]
+}
