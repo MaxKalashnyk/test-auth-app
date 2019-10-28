@@ -15,8 +15,6 @@ class App extends Component {
       console.log('error', err)
     }
 
-console.log("env", process.env.REACT_APP_GOOGLE_CLIENT_ID)
-
     window.gapi.load('auth2', function() {
       window.gapi.auth2
         .init({
