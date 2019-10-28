@@ -43,7 +43,11 @@ class App extends Component {
     })
   }
   render() {
-    const { name, imgUrl } = this.state
+    const { name, imgUrl } = this.state;
+
+    console.log("!name", !name)
+    console.log("!!name", !!name)
+
     return (
       <div className="App">
         <header className="App-header">
